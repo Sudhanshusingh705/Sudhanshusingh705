@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [IMAGE EDITOR](http://localhost:3000/home)
 
-- 🌱 I’m currently learning **MERN FULL STACK**
+- 🌱 I’m currently learning **MERN  STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sudhanshusingh705](https://github.com/Sudhanshusingh705)
 
