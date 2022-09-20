@@ -1,4 +1,4 @@
-<img align ="right"  width="400"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
+<img align ="right" width="600" img src=" https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif " />
 
 <h1 align="center">Hi 👋, I'm SUDHANSHU SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -36,6 +36,6 @@
 
 <h3 align="left">✍Dev Quote:</h3>
 <p align="left">
-<span style="color: cyan"> - ![#f03c15]"Don't worry about anything. Just do what you can and be the best you can be."- ![#f03c15]</span>
+<span style="color: cyan">"Don't worry about anything. Just do what you can and be the best you can be."</span>
 
 
