@@ -36,6 +36,6 @@
 
 <h3 align="left">✍Dev Quote:</h3>
 <p align="left">
-<span style="color: cyan"> - ![#f03c15]"Don't worry about anything. Just do what you can and be the best you can be."- ![#f03c15]</span>
+<span style="color: cyan"> "Don't worry about anything. Just do what you can and be the best you can be." </span>
 
 
