@@ -1,4 +1,4 @@
-<img align ="right" width="400" img src=" https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif " />
+<img align ="right" width="400"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
 
 <h1 align="center">Hi 👋, I'm SUDHANSHU SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
