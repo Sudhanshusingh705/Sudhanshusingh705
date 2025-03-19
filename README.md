@@ -1,138 +1,140 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" 
-       alt="Coding Animation" 
-       width="600" 
-       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0"/>
-  
-  <h1 style="color: #6200ea; font-size: 48px; margin: 20px 0">Hey there! I'm Sudhanshu Singh</h1>
-  <h3 style="color: #37474f; margin: 10px 0">Software Developer | 3+ Years in IT Industry</h3>
-  <p style="font-size: 18px; color: #546e7a; margin: 20px 0">
-    Full-stack developer specializing in MERN stack with experience in building scalable web applications and AI-powered solutions
-  </p>
-</div>
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
 
-<!-- Stats Section -->
-<div align="center" style="margin: 40px 0">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshusingh705&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
-       alt="GitHub Stats" 
-       style="margin: 10px; border-radius: 10px"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshusingh705&theme=radical&date_format=j%sup%&mode=weekly" 
-       alt="Streak Stats" 
-       style="margin: 10px; border-radius: 10px"/>
-  
-  <img src="https://wakatime.com/share/@sudhanshusingh705/12345678-1234-1234-1234-1234567890ab.svg" 
-       alt="Coding Activity" 
-       style="margin: 10px; border-radius: 10px"/>
-</div>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/sudhanshu---singh/">
+  <img alt="Sudhanshu Singh LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="Sudhanshu Singh Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
 
-<!-- Skills Section -->
-<h2 align="center" style="color: #6200ea; margin: 40px 0">Tech Stack</h2>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto">
-  <!-- Frontend -->
-  <div style="border: 2px solid #6200ea; border-radius: 10px; padding: 20px; transition: transform 0.3s">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-         alt="React" 
-         width="64" 
-         style="margin-bottom: 10px"/>
-    <h4>Frontend</h4>
-    <p style="color: #546e7a">React, Redux, TypeScript, HTML5, CSS3</p>
-  </div>
-  
-  <!-- Backend -->
-  <div style="border: 2px solid #3f51b5; border-radius: 10px; padding: 20px; transition: transform 0.3s">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-         alt="Node.js" 
-         width="64" 
-         style="margin-bottom: 10px"/>
-    <h4>Backend</h4>
-    <p style="color: #546e7a">Node.js, Express, Python, REST APIs</p>
-  </div>
-  
-  <!-- Database -->
-  <div style="border: 2px solid #009688; border-radius: 10px; padding: 20px; transition: transform 0.3s">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-         alt="MongoDB" 
-         width="64" 
-         style="margin-bottom: 10px"/>
-    <h4>Database</h4>
-    <p style="color: #546e7a">MongoDB, MySQL, PostgreSQL</p>
-  </div>
-  
-  <!-- DevOps -->
-  <div style="border: 2px solid #ff5722; border-radius: 10px; padding: 20px; transition: transform 0.3s">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-         alt="Docker" 
-         width="64" 
-         style="margin-bottom: 10px"/>
-    <h4>DevOps</h4>
-    <p style="color: #546e7a">AWS, Docker, Jenkins, Kubernetes</p>
-  </div>
-</div>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SudhanshuSingh&theme=github-dark-dimmed&custom_title=SudhanshuSingh%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Projects Section -->
-<h2 align="center" style="color: #6200ea; margin: 40px 0">Featured Projects</h2>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px">
-  <a href="https://github.com/Sudhanshusingh705" 
-     style="text-decoration: none; color: inherit">
-    <div style="background: linear-gradient(135deg, #6200ea 0%, #3f51b5 100%); 
-                padding: 20px; 
-                border-radius: 10px;
-                width: 300px;
-                transition: transform 0.3s">
-      <h3 style="color: white">AI Image Editor</h3>
-      <p style="color: rgba(255,255,255,0.8)">Advanced image editing tool using React and TensorFlow</p>
-    </div>
-  </a>
+```yaml
+name: Sudhanshu Singh
+located_in: Noida, IND
+from: Noida (Uttar Pradesh)
+job: Senior Software Engineer
+education: ["Bachelor's Technology (Computer Science)", "UPTU", "2019"]
+company: UKG (Ultimate Kronos Group)
+past experiences:
   
-  <a href="https://github.com/Sudhanshusingh705" 
-     style="text-decoration: none; color: inherit">
-    <div style="background: linear-gradient(135deg, #009688 0%, #00bcd4 100%); 
-                padding: 20px; 
-                border-radius: 10px;
-                width: 300px;
-                transition: transform 0.3s">
-      <h3 style="color: white">E-commerce Platform</h3>
-      <p style="color: rgba(255,255,255,0.8)">Full-stack MERN application with payment integration</p>
-    </div>
-  </a>
-</div>
-
-<!-- Contact Section -->
-<h2 align="center" style="color: #6200ea; margin: 40px 0">Let's Connect!</h2>
-
-<div align="center" style="margin: 20px 0">
-  <a href="https://linkedin.com/in/sudhanshusingh" 
-     target="_blank" 
-     style="margin: 0 10px; text-decoration: none">
-    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" 
-         width="40"/>
-  </a>
   
-  <a href="https://twitter.com/yourhandle" 
-     target="_blank" 
-     style="margin: 0 10px; text-decoration: none">
-    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/twitter.svg" 
-         alt="Twitter" 
-         width="40"/>
-  </a>
-  
-  <a href="mailto:sudhanshu@example.com" 
-     target="_blank" 
-     style="margin: 0 10px; text-decoration: none">
-    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/gmail.svg" 
-         alt="Email" 
-         width="40"/>
-  </a>
-</div>
+  - ["Backend Software Engineer", "Web App Backend (Node/Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "UP", "2018-2019"]
+ 
 
-<!-- Footer Quote -->
-<div align="center" style="margin: 40px 0; padding: 20px; background: #f5f5f5; border-radius: 10px">
-  <p style="color: #6200ea; font-size: 18px; font-style: italic">
-    "The only way to do great work is to love what you do." - Steve Jobs
-  </p>
-</div>
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+```
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
+
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/T0k4m4K/H1DR4_AGENT/pull/1) in [T0k4m4K/H1DR4_AGENT](https://github.com/T0k4m4K/H1DR4_AGENT)
+2. ❌ Closed PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
+3. 💪 Opened PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
+4. 🎉 Merged PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+5. 💪 Opened PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C944%20hrs%2037%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.0%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 335.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 208 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 71 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                344 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌆 Daytime                2410 commits        █████████░░░░░░░░░░░░░░░░   35.60 % 
+🌃 Evening                3015 commits        ███████████░░░░░░░░░░░░░░   44.54 % 
+🌙 Night                  1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Kokata/India
+
+💬 Programming Languages: 
+React                   2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.61 % 
+Node                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Express                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+MongoDB                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+
+🐱‍💻 Projects: 
+loop-data-retrievers     3 hrs 11 mins       ███████████████░░░░░░░░░░   60.93 % 
+arrc_si_bt_plugins       40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+ai-meeting-moderator     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+eden                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+arrc_si_bt_bringup       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+```
+
+
+ Last Updated on 16/03/2025 12:43:00 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 16 March 2025
+
+Total Time: 1,944 hrs 45 mins
+
+C++                708 hrs 12 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.42 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %
+Python             265 hrs 15 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 %
+C                  145 hrs 2 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.46 %
+Bash               89 hrs 49 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 %
+YAML               86 hrs 16 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.44 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+Liked it ?
+
+*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
