@@ -1,24 +1,3 @@
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
-
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/sudhanshu---singh/">
-  <img alt="Sudhanshu Singh LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="Sudhanshu Singh Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
-</p>
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SudhanshuSingh&theme=github-dark-dimmed&custom_title=SudhanshuSingh%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ```yaml
 name: Sudhanshu Singh
 located_in: Noida, IND
@@ -42,6 +21,35 @@ will_learn: ["Blockchain (backend)"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 **:zap: Recent Activity:**
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Kokata/India
+
+💬 Programming Languages: 
+React                   2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.61 % 
+Node                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Express                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+MongoDB                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+
+🐱‍💻 Projects: 
+loop-data-retrievers     3 hrs 11 mins       ███████████████░░░░░░░░░░   60.93 % 
+arrc_si_bt_plugins       40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+ai-meeting-moderator     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+eden                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+arrc_si_bt_bringup       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+```
+
+
+ Last Updated on 16/03/2025 12:43:00 UTC
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1]([https://github.com/T0k4m4K/H1DR4_AGENT/pull/1](https://github.com/Sudhanshusingh705))
@@ -78,29 +86,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Kokata/India
-
-💬 Programming Languages: 
-React                   2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.61 % 
-Node                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Express                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-MongoDB                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-
-🐱‍💻 Projects: 
-loop-data-retrievers     3 hrs 11 mins       ███████████████░░░░░░░░░░   60.93 % 
-arrc_si_bt_plugins       40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-ai-meeting-moderator     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-eden                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-arrc_si_bt_bringup       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-```
-
-
- Last Updated on 16/03/2025 12:43:00 UTC
-<!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
 
@@ -118,6 +104,28 @@ YAML               86 hrs 16 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-simple-->
+
+
+
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/sudhanshu---singh/">
+  <img alt="Sudhanshu Singh LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="Sudhanshu Singh Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
+
+
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SudhanshuSingh&theme=github-dark-dimmed&custom_title=SudhanshuSingh%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 Liked it ?
 
