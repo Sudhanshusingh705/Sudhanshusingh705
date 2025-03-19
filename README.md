@@ -47,18 +47,11 @@ arrc_si_bt_bringup       9 mins              █░░░░░░░░░░�
  Last Updated on 16/03/2025 12:43:00 UTC
 <!--END_SECTION:waka-->
 
+<br/>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
 </p>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1]([https://github.com/T0k4m4K/H1DR4_AGENT/pull/1](https://github.com/Sudhanshusingh705))
-2. ❌ Closed PR [#1]([https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1](https://github.com/Sudhanshusingh705)) 
-3. 💪 Opened PR [#1]([https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1](https://github.com/Sudhanshusingh705))
-4. 🎉 Merged PR [#1]([https://github.com/guilyx/guilyx.github.io/pull/1](https://github.com/Sudhanshusingh705)) 
-5. 💪 Opened PR [#1]([https://github.com/guilyx/guilyx.github.io/pull/1](https://github.com/Sudhanshusingh705)) 
-<!--END_SECTION:activity-->
-
+<br/>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C944%20hrs%2037%20mins-blue)
 
@@ -111,6 +104,8 @@ YAML               86 hrs 16 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> -->
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SudhanshuSingh&theme=github-dark-dimmed&custom_title=SudhanshuSingh%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/sudhanshu---singh/">
@@ -121,11 +116,6 @@ YAML               86 hrs 16 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </a>
 <br>
 </p>
-
-
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SudhanshuSingh&theme=github-dark-dimmed&custom_title=SudhanshuSingh%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 Liked it ?
 
