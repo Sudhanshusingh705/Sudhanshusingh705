@@ -1,41 +1,138 @@
-<img align ="right" width="400"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
+<!-- Header Section -->
+<div align="center">
+  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" 
+       alt="Coding Animation" 
+       width="600" 
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0"/>
+  
+  <h1 style="color: #6200ea; font-size: 48px; margin: 20px 0">Hey there! I'm Sudhanshu Singh</h1>
+  <h3 style="color: #37474f; margin: 10px 0">Software Developer | 3+ Years in IT Industry</h3>
+  <p style="font-size: 18px; color: #546e7a; margin: 20px 0">
+    Full-stack developer specializing in MERN stack with experience in building scalable web applications and AI-powered solutions
+  </p>
+</div>
 
-<h1 align="center">Hi 👋, I'm SUDHANSHU SINGH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Stats Section -->
+<div align="center" style="margin: 40px 0">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshusingh705&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+       alt="GitHub Stats" 
+       style="margin: 10px; border-radius: 10px"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshusingh705&theme=radical&date_format=j%sup%&mode=weekly" 
+       alt="Streak Stats" 
+       style="margin: 10px; border-radius: 10px"/>
+  
+  <img src="https://wakatime.com/share/@sudhanshusingh705/12345678-1234-1234-1234-1234567890ab.svg" 
+       alt="Coding Activity" 
+       style="margin: 10px; border-radius: 10px"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshusingh705&label=Profile%90views&color=0e75b6&style=flat" alt="sudhanshusingh705" /> </p>
+<!-- Skills Section -->
+<h2 align="center" style="color: #6200ea; margin: 40px 0">Tech Stack</h2>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto">
+  <!-- Frontend -->
+  <div style="border: 2px solid #6200ea; border-radius: 10px; padding: 20px; transition: transform 0.3s">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+         alt="React" 
+         width="64" 
+         style="margin-bottom: 10px"/>
+    <h4>Frontend</h4>
+    <p style="color: #546e7a">React, Redux, TypeScript, HTML5, CSS3</p>
+  </div>
+  
+  <!-- Backend -->
+  <div style="border: 2px solid #3f51b5; border-radius: 10px; padding: 20px; transition: transform 0.3s">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+         alt="Node.js" 
+         width="64" 
+         style="margin-bottom: 10px"/>
+    <h4>Backend</h4>
+    <p style="color: #546e7a">Node.js, Express, Python, REST APIs</p>
+  </div>
+  
+  <!-- Database -->
+  <div style="border: 2px solid #009688; border-radius: 10px; padding: 20px; transition: transform 0.3s">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+         alt="MongoDB" 
+         width="64" 
+         style="margin-bottom: 10px"/>
+    <h4>Database</h4>
+    <p style="color: #546e7a">MongoDB, MySQL, PostgreSQL</p>
+  </div>
+  
+  <!-- DevOps -->
+  <div style="border: 2px solid #ff5722; border-radius: 10px; padding: 20px; transition: transform 0.3s">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+         alt="Docker" 
+         width="64" 
+         style="margin-bottom: 10px"/>
+    <h4>DevOps</h4>
+    <p style="color: #546e7a">AWS, Docker, Jenkins, Kubernetes</p>
+  </div>
+</div>
 
-- 🔭 I’m currently working on [IMAGE EDITOR](http://localhost:3000/home)
+<!-- Projects Section -->
+<h2 align="center" style="color: #6200ea; margin: 40px 0">Featured Projects</h2>
 
-- 🌱 I’m currently learning **MERN  STACK**
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px">
+  <a href="https://github.com/Sudhanshusingh705" 
+     style="text-decoration: none; color: inherit">
+    <div style="background: linear-gradient(135deg, #6200ea 0%, #3f51b5 100%); 
+                padding: 20px; 
+                border-radius: 10px;
+                width: 300px;
+                transition: transform 0.3s">
+      <h3 style="color: white">AI Image Editor</h3>
+      <p style="color: rgba(255,255,255,0.8)">Advanced image editing tool using React and TensorFlow</p>
+    </div>
+  </a>
+  
+  <a href="https://github.com/Sudhanshusingh705" 
+     style="text-decoration: none; color: inherit">
+    <div style="background: linear-gradient(135deg, #009688 0%, #00bcd4 100%); 
+                padding: 20px; 
+                border-radius: 10px;
+                width: 300px;
+                transition: transform 0.3s">
+      <h3 style="color: white">E-commerce Platform</h3>
+      <p style="color: rgba(255,255,255,0.8)">Full-stack MERN application with payment integration</p>
+    </div>
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sudhanshusingh705](https://github.com/Sudhanshusingh705)
+<!-- Contact Section -->
+<h2 align="center" style="color: #6200ea; margin: 40px 0">Let's Connect!</h2>
 
-- 💬 Ask me about **react,javascript,express,nodejs,mong5odb,sql,oracleApex**
+<div align="center" style="margin: 20px 0">
+  <a href="https://linkedin.com/in/sudhanshusingh" 
+     target="_blank" 
+     style="margin: 0 10px; text-decoration: none">
+    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn" 
+         width="40"/>
+  </a>
+  
+  <a href="https://twitter.com/yourhandle" 
+     target="_blank" 
+     style="margin: 0 10px; text-decoration: none">
+    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/twitter.svg" 
+         alt="Twitter" 
+         width="40"/>
+  </a>
+  
+  <a href="mailto:sudhanshu@example.com" 
+     target="_blank" 
+     style="margin: 0 10px; text-decoration: none">
+    <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/gmail.svg" 
+         alt="Email" 
+         width="40"/>
+  </a>
+</div>
 
-- 📫 How to reach me **https://github.com/Sudhanshusingh705**
-
-- ⚡ Fun fact **I tth6innkk i am funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sudhanshusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshusingh" height="30" width="40" /></a>
-<a href="https://fb.com/shivam singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivam singh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshusingh705&show_icons=true&locale=en&layout=compact" alt="sudhanshusingh705" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshusingh705&show_icons=true&locale=en" alt="sudhanshusingh705" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshusingh705&" alt="sudhanshusingh705" /></p>
-
-<h3 align="left">✍Dev Quote:</h3>
-<p align="left">
-<span style="color: cyan">"Don't worry about anything. Just do what you can and be the best you can be."</span>
-
-
+<!-- Footer Quote -->
+<div align="center" style="margin: 40px 0; padding: 20px; background: #f5f5f5; border-radius: 10px">
+  <p style="color: #6200ea; font-size: 18px; font-style: italic">
+    "The only way to do great work is to love what you do." - Steve Jobs
+  </p>
+</div>
