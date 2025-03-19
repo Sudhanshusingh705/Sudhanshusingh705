@@ -41,24 +41,14 @@ currently_learning: ["Web3", "React", "Vue"]
 will_learn: ["Blockchain (backend)"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
-</p>
-
-
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/T0k4m4K/H1DR4_AGENT/pull/1) in [T0k4m4K/H1DR4_AGENT](https://github.com/T0k4m4K/H1DR4_AGENT)
-2. ❌ Closed PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
-3. 💪 Opened PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
-4. 🎉 Merged PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
-5. 💪 Opened PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+1. 💪 Opened PR [#1]([https://github.com/T0k4m4K/H1DR4_AGENT/pull/1](https://github.com/Sudhanshusingh705))
+2. ❌ Closed PR [#1]([https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1](https://github.com/Sudhanshusingh705)) 
+3. 💪 Opened PR [#1]([https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1](https://github.com/Sudhanshusingh705))
+4. 🎉 Merged PR [#1]([https://github.com/guilyx/guilyx.github.io/pull/1](https://github.com/Sudhanshusingh705)) 
+5. 💪 Opened PR [#1]([https://github.com/guilyx/guilyx.github.io/pull/1](https://github.com/Sudhanshusingh705)) 
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
