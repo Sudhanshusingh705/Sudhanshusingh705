@@ -1,3 +1,20 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,10:FFA36B,20:FFD93D,30:6BCB77,40:4D96FF,50:9B59B6,60:FF6B6B,70:FFA36B,80:FFD93D,90:6BCB77,100:4D96FF&height=180&section=header&text=Sudhanshu%20Singh&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20System%20Architect%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=55" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudhanshu---singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SudhanshuSingh&style=for-the-badge&color=blueviolet" />
+  <img src="http://img.shields.io/badge/Code%20Time-1%2C944%20hrs%2037%20mins-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Sudhanshu+Singh;%F0%9F%9A%80+Building+scalable+systems+%40+UKG;%E2%9A%A1+Passionate+about+Embedded+Systems+%26+Web3" />
+</p>
+
 ```yaml
 name: Sudhanshu Singh
 located_in: Noida, IND
